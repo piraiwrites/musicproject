@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="%:bYb(Xfq?AN+`xQ9P$5">X</variable></variables><block type="pxt-on-start" id="XD]aoqYFMQF$@MenkOs}" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="KdG@RDs*8q{sItMK6/~T"><field name="i">IconNames.House</field><next><block type="playMelody" id="IX@,vd6+eVA2CK*.M45#"><value name="melody"><shadow type="melody_editor" id="?oNDNrQissW=ka,6fo2$"><field name="melody">"C5 C E B D A E - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="Wqi=tcb|0B=YYs!Jx68Z"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block><block type="music_stop_all_sounds" id="j,8fp{TR[%$GQ,HdHF}G" disabled="true" x="-43" y="209"></block><block type="device_forever" id="gkX4kO!vJRd)1Qad;:,o" x="391" y="191"></block><block type="device_show_leds" id=".xh897nZ:(514{x8vyG4" disabled="true" x="347" y="427"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . # . # 
+        . . # . . 
+        . . . . .
+        `</field></block></xml>
